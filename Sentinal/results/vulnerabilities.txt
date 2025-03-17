@@ -1,0 +1,108 @@
+[txt-fingerprint] [dns] [info] intercity.indrive.com ["google-site-verification=07D-VfFlNsTN8CFKR1TSzvhVDar8K-mP0drRzA8UD0w"]
+[caa-fingerprint] [dns] [info] birthday.indrive.com
+[caa-fingerprint] [dns] [info] cargo.indrive.com
+[caa-fingerprint] [dns] [info] compliance.indrive.com
+[caa-fingerprint] [dns] [info] intercity.indrive.com
+[caa-fingerprint] [dns] [info] infaces.indrive.com
+[caa-fingerprint] [dns] [info] internal.sandbox.delivery.indrive.com
+[dmarc-detect] [dns] [info] _dmarc.job.indrive.com ["v=DMARC1;p=reject;rua=mailto:marketing@job.indrive.com"]
+[caa-fingerprint] [dns] [info] id.indrive.com
+[spf-record-detect] [dns] [info] job.indrive.com [v=spf1 include:spf.unisender.com ~all"]
+[txt-fingerprint] [dns] [info] job.indrive.com ["google-site-verification=5aifi8Z90JL_WjKoQwxmWO_S9LZWYAw2jqPB_6FzXJc","v=spf1 include:spf.unisender.com ~all"]
+[caa-fingerprint] [dns] [info] cr.indrive.com
+[caa-fingerprint] [dns] [info] couriers.indrive.com
+[caa-fingerprint] [dns] [info] careers.indrive.com
+[caa-fingerprint] [dns] [info] empleo.indrive.com
+[caa-fingerprint] [dns] [info] 153.delivery.indrive.com
+[caa-fingerprint] [dns] [info] internal.delivery.indrive.com
+[caa-fingerprint] [dns] [info] coaching.supernovas.indrive.com
+[caa-fingerprint] [dns] [info] internal.tpl.delivery.indrive.com
+[caa-fingerprint] [dns] [info] fr.indrive.com
+[caa-fingerprint] [dns] [info] dxy.indrive.com
+[caa-fingerprint] [dns] [info] injob.indrive.com
+[caa-fingerprint] [dns] [info] ic.indrive.com
+[caa-fingerprint] [dns] [info] job.indrive.com
+[caa-fingerprint] [dns] [info] analytics.indrive.com [trust-provider.com,sectigo.com,amazon.com,pki.goog,ssl.com,amazonaws.com,letsencrypt.org,amazontrust.com,godaddy.com,geotrust.com,globalsign.com,digicert.com,entrust.net,thawte.com,telesec.de,comodoca.com,awstrust.com,symantec.com]
+[caa-fingerprint] [dns] [info] freight.indrive.com
+[caa-fingerprint] [dns] [info] bus.br.indrive.com
+[caa-fingerprint] [dns] [info] bus.mx.indrive.com
+[caa-fingerprint] [dns] [info] beginit.indrive.com
+[dns-saas-service-detection:webflow] [dns] [info] fr.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection:webflow] [dns] [info] beginit.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] empleo.indrive.com [d2jiggylp22sfu.cloudfront.net.]
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] injob.indrive.com [d2jiggylp22sfu.cloudfront.net.]
+[dns-saas-service-detection] [dns] [info] bus.mx.indrive.com [book.distribusion.com.]
+[dns-saas-service-detection:webflow] [dns] [info] birthday.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection:webflow] [dns] [info] dxy.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection] [dns] [info] analytics.indrive.com [custom-drv-shortener.eu.bloomreach.co.]
+[dns-saas-service-detection:webflow] [dns] [info] ic.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection] [dns] [info] bus.br.indrive.com [book.distribusion.com.]
+[dns-saas-service-detection:webflow] [dns] [info] infaces.indrive.com [proxy-ssl.webflow.com.]
+[mx-service-detector:Google Apps] [dns] [info] job.indrive.com
+[mx-fingerprint] [dns] [info] job.indrive.com [1 aspmx.l.google.com.,5 alt1.aspmx.l.google.com.,10 alt4.aspmx.l.google.com.,10 alt3.aspmx.l.google.com.,5 alt2.aspmx.l.google.com.]
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] careers.indrive.com [d7fd94pluhqia.cloudfront.net.]
+[nameserver-fingerprint] [dns] [info] careers.indrive.com [ns-365.awsdns-45.com.,ns-1589.awsdns-06.co.uk.,ns-798.awsdns-35.net.,ns-1489.awsdns-58.org.]
+[nameserver-fingerprint] [dns] [info] injob.indrive.com [ns-600.awsdns-11.net.,ns-1353.awsdns-41.org.,ns-1720.awsdns-23.co.uk.,ns-354.awsdns-44.com.]
+[dns-saas-service-detection:webflow] [dns] [info] cr.indrive.com [proxy-ssl.webflow.com.]
+[nameserver-fingerprint] [dns] [info] empleo.indrive.com [ns-600.awsdns-11.net.,ns-1353.awsdns-41.org.,ns-1720.awsdns-23.co.uk.,ns-354.awsdns-44.com.]
+[caa-fingerprint] [dns] [info] promo.indrive.com
+[caa-fingerprint] [dns] [info] rd.indrive.com
+[caa-fingerprint] [dns] [info] promotion.indrive.com
+[caa-fingerprint] [dns] [info] rabota.indrive.com
+[caa-fingerprint] [dns] [info] tpl.delivery.indrive.com
+[caa-fingerprint] [dns] [info] supernovas.indrive.com
+[caa-fingerprint] [dns] [info] sparklab.indrive.com
+[nameserver-fingerprint] [dns] [info] ventures.indrive.com [ns-600.awsdns-11.net.,ns-354.awsdns-44.com.,ns-1353.awsdns-41.org.,ns-1720.awsdns-23.co.uk.]
+[caa-fingerprint] [dns] [info] updrive.indrive.com
+[caa-fingerprint] [dns] [info] ref.indrive.com
+[dns-saas-service-detection:webflow] [dns] [info] lp-services.indrive.com [proxy-ssl.webflow.com.]
+[caa-fingerprint] [dns] [info] ventures.indrive.com
+[dns-saas-service-detection:webflow] [dns] [info] promotion.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection:amazon-cloudfront] [dns] [info] rabota.indrive.com [d2jiggylp22sfu.cloudfront.net.]
+[dns-saas-service-detection] [dns] [info] money.indrive.com [sites.framer.app.]
+[dns-saas-service-detection:webflow] [dns] [info] sparklab.indrive.com [proxy-ssl.webflow.com.]
+[dns-saas-service-detection:webflow] [dns] [info] ref.indrive.com [proxy-ssl.webflow.com.]
+[caa-fingerprint] [dns] [info] user-identification.invision.indrive.com
+[options-method] [http] [info] https://couriers.indrive.com [GET,HEAD]
+[options-method] [http] [info] https://cargo.indrive.com [GET,HEAD]
+[options-method] [http] [info] https://careers.indrive.com [HEAD,GET]
+[aws-cloudfront-service] [http] [info] https://empleo.indrive.com
+[aws-cloudfront-service] [http] [info] https://internal.delivery.indrive.com
+[aws-cloudfront-service] [http] [info] https://job.indrive.com
+[aws-cloudfront-service] [http] [info] https://153.delivery.indrive.com
+[aws-cloudfront-service] [http] [info] https://injob.indrive.com
+[aws-cloudfront-service] [http] [info] https://internal.tpl.delivery.indrive.com
+[aws-cloudfront-service] [http] [info] https://intercity.indrive.com
+[aws-cloudfront-service] [http] [info] https://internal.sandbox.delivery.indrive.com
+[addeventlistener-detect] [http] [info] https://cr.indrive.com
+[aws-cloudfront-service] [http] [info] https://rabota.indrive.com
+[aws-cloudfront-service] [http] [info] https://partners.delivery.indrive.com
+[aws-bucket-service] [http] [info] https://s.indrive.com
+[aws-cloudfront-service] [http] [info] https://s.indrive.com
+[addeventlistener-detect] [http] [info] https://dxy.indrive.com
+[aws-cloudfront-service] [http] [info] https://couriers.indrive.com
+[addeventlistener-detect] [http] [info] https://infaces.indrive.com
+[aws-cloudfront-service] [http] [info] https://careers.indrive.com
+[nginx-version] [http] [info] https://movie.indrive.com [nginx/1.18.0]
+[email-extractor] [http] [info] https://cargo.indrive.com [u003esupport@indrive.com]
+[aws-cloudfront-service] [http] [info] https://sharetrip.indrive.com
+[aws-cloudfront-service] [http] [info] https://cargo.indrive.com
+[aws-cloudfront-service] [http] [info] https://sgtm.indrive.com
+[detect-sentry] [http] [info] https://cargo.indrive.com [https://7342d342866640148c1370d0ff3169e8@sentry.test.idmp.tech/20,https://9abeb2e047f6477898195340386cba41@sentry.buglytics.com/38,https://78d9db93b3a74ac89235d05b755f77d9@sentry.buglytics.com/39,https://6ea99485333f4518b0e62717068954ca@sentry.buglytics.com/43,https://49deb8620704452ba4ea9af5d204dce9@sentry.buglytics.com/40,https://b1f57d7f3e604b289aef5f887e4102a5@sentry.buglytics.com/41,https://c352fbb493e3420d83cae2d283963682@sentry.buglytics.com/42]
+[addeventlistener-detect] [http] [info] https://compliance.indrive.com
+[addeventlistener-detect] [http] [info] https://beginit.indrive.com
+[email-extractor] [http] [info] https://compliance.indrive.com [marketing@indrive.com,support@indrive.com]
+[addeventlistener-detect] [http] [info] https://sparklab.indrive.com
+[addeventlistener-detect] [http] [info] https://supernovas.indrive.com
+[aws-cloudfront-service] [http] [info] https://compliance.indrive.com
+[aws-cloudfront-service] [http] [info] https://tpl.delivery.indrive.com
+[aws-cloudfront-service] [http] [info] https://url-checker.indrive.com
+[addeventlistener-detect] [http] [info] https://updrive.indrive.com
+[aws-cloudfront-service] [http] [info] https://us.indrive.com
+[aws-cloudfront-service] [http] [info] https://www.intercity.indrive.com
+[addeventlistener-detect] [http] [info] https://money.indrive.com
+[addeventlistener-detect] [http] [info] https://ventures.indrive.com
+[aws-cloudfront-service] [http] [info] https://ventures.indrive.com
+[credit-card-number-detect:creditcard] [http] [medium] https://money.indrive.com [2621145374449338,2528735632183907,2668918918918919,36080870917576]
+[addeventlistener-detect] [http] [info] https://yourpace.indrive.com
+[aws-detect:aws-cloudfront] [http] [info] https://injob.indrive.com
